@@ -1,6 +1,17 @@
 FLASK + Leaflet.js MVP
 ======================
 
+## Clone the repo
+
+```
+git clone git@github.com:dogrdon/leaflet_poc.git
+```
+
+## CD to the application dir
+
+```
+cd leaflet_poc/app
+```
 
 ## Install dependencies:
 
