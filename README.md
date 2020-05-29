@@ -1,5 +1,5 @@
-FLASK + Leaflet.js MVP
-======================
+FLASK + Leaflet.js Proof of Concept
+===================================
 
 ## Clone the repo
 
